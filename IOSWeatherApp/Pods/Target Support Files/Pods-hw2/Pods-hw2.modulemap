@@ -1,0 +1,6 @@
+framework module Pods_hw2 {
+  umbrella header "Pods-hw2-umbrella.h"
+
+  export *
+  module * { export * }
+}

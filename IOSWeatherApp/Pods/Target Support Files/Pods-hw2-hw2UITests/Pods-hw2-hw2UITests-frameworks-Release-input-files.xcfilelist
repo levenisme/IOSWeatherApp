@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-hw2-hw2UITests/Pods-hw2-hw2UITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
